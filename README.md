@@ -16,6 +16,4 @@ I enjoy working with technology and analyzing and solving complex problems.
 - 👨‍🎓 I’m currently enrolled in Google Cybersecurity Professional Certificate.
 - 👨‍🎓 I'm currently enrolled in LPI Linux Essentials (010-160) Bootcamp via Udemy.
 - 💬 Ask me about Linux, Networks or Incident Response.
-- 📫 How to reach me: @veevose
-- 😄 Pronouns: Vivian
 - ⚡ Fun fact: I collect vinyl records and play music in my free time.
