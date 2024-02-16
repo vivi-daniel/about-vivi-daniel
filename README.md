@@ -7,9 +7,9 @@
 -->
 
 ## About me
-My name is Vivi.
+My name is Daniel.
 I am driven and passionate about computers and safeguarding people's security.
-I enjoy working with technology and analyzing and solving complex problems.
+I am currenly on my journey to become a cybersecurity proffessional.
 
 <!-- COMMENT -->
 - ⌨️ I’m currently working on becoming a cybersecurity professional.
