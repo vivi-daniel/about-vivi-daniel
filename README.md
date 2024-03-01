@@ -14,6 +14,5 @@ I am currenly on my journey to become a cybersecurity proffessional.
 <!-- COMMENT -->
 - ⌨️ I’m currently working on becoming a cybersecurity professional.
 - 👨‍🎓 I’m currently enrolled in Google Cybersecurity Professional Certificate.
-- 👨‍🎓 I'm currently enrolled in LPI Linux Essentials (010-160) Bootcamp via Udemy.
-- 💬 Ask me about Linux, Networks or Incident Response.
+- 👨‍🎓 I'm currently enrolled in LPI Linux Essentials (010-160) Bootcamp.
 - ⚡ Fun fact: I collect vinyl records and play music in my free time.
