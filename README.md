@@ -9,7 +9,7 @@
 ## About me
 My name is Daniel.
 I am driven and passionate about computers and safeguarding people's security.
-I am currenly on my journey to become a cybersecurity proffessional.
+I am currenly on my journey to become a cybersecurity professional.
 
 <!-- COMMENT -->
 - ⌨️ I’m currently working on becoming a cybersecurity professional.
