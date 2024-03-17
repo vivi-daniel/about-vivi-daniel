@@ -8,11 +8,11 @@
 
 ## About me
 My name is Daniel.
-I am driven and passionate about computers and safeguarding people's security.
-I am currenly on my journey to become a cybersecurity professional.
+I am passionate about computers and operating systems in particular, installing, making things work, playing games and supporting others with their OS issues.
+I am currenly on my journey to become an IT professional with focus in cloud security.
 
 <!-- COMMENT -->
-- ⌨️ I’m currently working on becoming a cybersecurity professional.
-- 👨‍🎓 I’m currently enrolled in Google Cybersecurity Professional Certificate.
-- 👨‍🎓 I'm currently enrolled in LPI Linux Essentials (010-160) Bootcamp.
+- 💻 I’m curently enrolled in AWS Cloud Practitioner and Linux & Private Cloud Administration on IBM Power Systems.
+- 💻 I’m currently enrolled in Google Cybersecurity Professional Certificate.
+- ✅ LPI Linux Essentials (010-160) Bootcamp completed.
 - ⚡ Fun fact: I collect vinyl records and play music in my free time.
